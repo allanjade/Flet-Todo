@@ -1,2 +1,2 @@
-# Flet-todo-app-Tutorials
+# Flet-todo-app
 ![ui](ui.png)
